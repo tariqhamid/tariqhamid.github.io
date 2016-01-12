@@ -2,7 +2,6 @@
 layout: post
 title: You're up and running!
 categories: ['welcome']
-
 series: "Intro to Series"
 ---
 
