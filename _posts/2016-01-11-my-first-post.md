@@ -11,4 +11,4 @@ series: "Intro to Series"
 
 # The Information Overload Is Killing Me !!!
 
-{% include series.html %}
+
